@@ -8514,7 +8514,7 @@ textarea.form-control {
 
 .block-3 .text .subheading {
   font-size: 13px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: .1em;
   color: #8c8c8c; }
 
