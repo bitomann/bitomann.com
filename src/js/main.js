@@ -29,13 +29,13 @@ $(document).ready(function($) {
 		}, 1);
 	};
 	loader();
-
+// this controls the home page carousel
 	var carousel = function() {
 		$('.home-slider').owlCarousel({
 	    loop:true,
 		autoplay: true,
-		autoplaySpeed:2000,
-		autoplayTimeout: 4000,
+		autoplaySpeed: 2000,
+		autoplayTimeout: 3333,
 	    margin:0,
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
